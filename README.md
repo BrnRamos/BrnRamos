@@ -83,7 +83,7 @@ Olá! Me chamo Bruno Ramos, tenho 21 anos e sou residente do estado do Mato Gros
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="210" 
+      height="200" 
       src="https://github-stats-extended.vercel.app/api/top-langs?username=BrnRamos&langs_count=4&theme=tokyonight" 
   />
 
