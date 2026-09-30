@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Iniciante`**
 
-Olá! Me chamo Bruno Ramos, tenho 21 anos e sou residente do estado do Mato Grosso do Sul, conclui o ensino superior no curso de Análise e Desenvolvimento de Sistemas pela UNIPAR e no momento estou cursando Sistemas de Informação pela Anhnaguera Educacional. Sou deverás apaixonado por tecnologia e quero demonstrar isso em meu perfil do GitHub, mostrando minha evolução como desenvolvedor ao longo do tempo.
+Olá! Me chamo Bruno Ramos, tenho 21 anos e sou residente do estado do Mato Grosso do Sul, conclui o ensino superior no curso de Análise e Desenvolvimento de Sistemas pela UNIPAR e no momento estou cursando Sistemas de Informação pela Anhanguera Educacional. Sou deverás apaixonado por tecnologia e quero demonstrar isso em meu perfil do GitHub, mostrando minha evolução como desenvolvedor ao longo do tempo. Tenho foco em atuar no ecossistema Web, por isso, estou em constante aprendizagem e evolução na Linguagem JS.
 
 <p align="left">
         <img 
